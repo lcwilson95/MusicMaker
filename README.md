@@ -5,5 +5,5 @@ To run, download all files into one directory. If not already installed, install
 
 Future developments I hope to implement: More key signature options, more time signatures, incidental note support, GUI for selecting notes from a piano, notation improvements (e.g. stem directions,dynamic/tempo markings), MIDI support, variable tempo, more instrumentation options
 
-Pydub audio editing software downloaded with permission from https://github.com/jiaaro/pydub, piano samples used with permission.
+Pydub audio editing software downloaded with permission from https://github.com/jiaaro/pydub, piano audio samples (both indivdual pitches and chords) used with permission.
 
